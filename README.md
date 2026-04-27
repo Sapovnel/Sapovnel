@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34D399,50:22D3EE,100:A78BFA&height=200&section=header&text=Eralda&fontSize=85&fontColor=05070d&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20%26%20ML&descSize=18&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34D399,50:22D3EE,100:A78BFA&height=200&section=header&text=Eralda&fontSize=85&fontColor=05070d&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%C2%B7%20AI%20%26%20Machine%20Learning&descSize=18&descAlignY=58" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Sapovnel">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=34D399&center=true&vCenter=true&width=720&lines=Computer+Engineer+%26+Full-Stack+Developer;Building+with+React%2C+Node.js%2C+and+Python;Exploring+AI+and+Machine+Learning;Always+learning%2C+always+shipping" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=34D399&center=true&vCenter=true&width=720&lines=Computer+Engineer;Exploring+AI+and+Machine+Learning;Building+practical+tools+%26+side+projects;Always+learning%2C+always+shipping" />
   </a>
 </p>
 
@@ -18,11 +18,11 @@
 
 ## About me
 
-I am a **computer engineer** focused on full-stack web development with a strong interest in **artificial intelligence and machine learning**. I enjoy turning complex problems into clean, performant interfaces — from real-time data dashboards to ML-powered tools. Always learning new frameworks and shipping side projects to learn by doing.
+I'm a **computer engineer** with a focus on **artificial intelligence and machine learning**. I enjoy turning complex problems into clean, performant interfaces — from real-time data dashboards to ML-powered tools. Always learning new frameworks and shipping side projects to learn by doing.
 
-- Currently building full-stack apps that bridge data pipelines and thoughtful UX
 - Exploring deep learning, model deployment, and MLOps
-- Open to collaborations on AI/ML projects and full-stack engineering opportunities
+- Building data-driven tools and dashboards that turn raw data into clear UX
+- Open to collaborations on AI/ML projects and engineering opportunities
 
 ---
 
@@ -81,48 +81,9 @@ I am a **computer engineer** focused on full-stack web development with a strong
         <code>Next.js</code> <code>React 19</code> <code>Tailwind v4</code> <code>TypeScript</code>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Sapovnel/Car-Website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sapovnel&repo=Car-Website&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-      </a>
-      <p><strong>Car Website</strong> — Responsive automotive landing page with custom CSS, Poppins typography, and a rich asset gallery. Pure HTML &amp; CSS, no framework.</p>
-      <p>
-        <code>HTML</code> <code>CSS</code> <code>Responsive</code>
-      </p>
-    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
-
----
-
-## GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sapovnel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sapovnel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sapovnel&theme=tokyonight&hide_border=true&background=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sapovnel&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sapovnel&theme=tokyo-night&hide_border=true&bg_color=0d1117&line=34D399&point=22D3EE&area=true&area_color=34D39922" />
-</p>
-
----
-
-## Connect
-
-<p align="center">
-  <a href="https://huggingface.co/sapov">
-    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:22D3EE,100:34D399&height=80&section=footer" />
