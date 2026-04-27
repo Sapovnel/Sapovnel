@@ -3,12 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sapovnel">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=34D399&center=true&vCenter=true&width=720&lines=Computer+Engineer;Exploring+AI+and+Machine+Learning;Building+practical+tools+%26+side+projects;Always+learning%2C+always+shipping" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sapovnel&style=for-the-badge&color=34D399&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/Sapovnel?style=for-the-badge&color=22D3EE&label=Followers" />
   <img src="https://img.shields.io/github/stars/Sapovnel?style=for-the-badge&color=A78BFA&label=Total+Stars" />
