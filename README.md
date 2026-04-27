@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34D399,50:22D3EE,100:A78BFA&height=200&section=header&text=Eralda&fontSize=85&fontColor=05070d&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%C2%B7%20AI%20%26%20Machine%20Learning&descSize=18&descAlignY=58" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sapovnel&style=for-the-badge&color=34D399&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/Sapovnel?style=for-the-badge&color=22D3EE&label=Followers" />
-  <img src="https://img.shields.io/github/stars/Sapovnel?style=for-the-badge&color=A78BFA&label=Total+Stars" />
-</p>
-
 ---
 
 ## About me
