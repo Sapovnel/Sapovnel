@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34D399,50:22D3EE,100:A78BFA&height=200&section=header&text=Eralda&fontSize=85&fontColor=05070d&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%C2%B7%20AI%20%26%20Machine%20Learning&descSize=18&descAlignY=58" />
-</p>
+<h1 align="center">Hi, I'm Eralda</h1>
+<p align="center"><em>Computer Engineer &middot; AI &amp; Machine Learning</em></p>
 
 ---
 
@@ -72,7 +71,3 @@ I'm a **computer engineer** with a focus on **artificial intelligence and machin
     <td width="50%" valign="top"></td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:22D3EE,100:34D399&height=80&section=footer" />
-</p>
