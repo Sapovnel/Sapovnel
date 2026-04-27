@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ebubeker</h1>
+<h1 align="center">Hi, I'm Eralda</h1>
 <p align="center">
   <strong>Computer Engineer</strong> · Full-Stack Developer · AI &amp; Machine Learning Enthusiast
 </p>
