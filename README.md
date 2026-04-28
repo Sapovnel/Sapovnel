@@ -68,6 +68,15 @@ I'm a **computer engineer** with a focus on **artificial intelligence and machin
         <code>Next.js</code> <code>React 19</code> <code>Tailwind v4</code> <code>TypeScript</code>
       </p>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Sapovnel/link-preview-studio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sapovnel&repo=link-preview-studio&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+      </a>
+      <p><strong>Link Preview Studio</strong> &mdash; Paste any URL or topic, preview it across seven social platforms (Twitter, Slack, Discord, Facebook, Instagram, Story, Quote), customize backgrounds and headlines, then export Instagram-ready PNGs with auto-generated captions and hashtags. Mozilla Readability extraction and Wikipedia/HN topic discovery built in.</p>
+      <p>
+        <a href="https://sapov-link-preview-studio.hf.space"><img src="https://img.shields.io/badge/Live_Demo-34D399?style=flat-square&logoColor=000" /></a>
+        <code>React</code> <code>Express</code> <code>Cheerio</code> <code>Readability</code> <code>Docker</code>
+      </p>
+    </td>
   </tr>
 </table>
