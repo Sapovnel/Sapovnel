@@ -79,4 +79,16 @@ I'm a **computer engineer** with a focus on **artificial intelligence and machin
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Sapovnel/InstaAI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sapovnel&repo=InstaAI&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+      </a>
+      <p><strong>InstaAI</strong> &mdash; Instagram Reels analytics dashboard that scrapes creator accounts via Apify and ranks Reels by virality through a six-phase async pipeline. Google Gemini AI content scoring, trend detection, hashtag intelligence, posting-time calendar recommendations, Excel/ZIP exports, and a 9-tab shadcn/ui dashboard with Recharts visualizations.</p>
+      <p>
+        <code>Next.js</code> <code>PostgreSQL</code> <code>Gemini</code> <code>Apify</code> <code>TypeScript</code>
+      </p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
